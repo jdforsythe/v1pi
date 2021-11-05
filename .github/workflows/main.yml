@@ -28,7 +28,7 @@ jobs:
       matrix:
         hotspot:
           - hotspot
-          - no-hotspot
+          #- no-hotspot
 
     steps:
 
